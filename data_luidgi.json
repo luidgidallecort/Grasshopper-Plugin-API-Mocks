@@ -1,0 +1,62 @@
+[
+	{
+		"id": 0,
+		"name": "Object A",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 1,
+		"name": "Object B",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 2,
+		"name": "Object C",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 3,
+		"name": "Object D",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 4,
+		"name": "Object E",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 5,
+		"name": "Object F",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 6,
+		"name": "Object G",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 7,
+		"name": "Object H",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 8,
+		"name": "Object I",
+		"price": "320.00",
+		"brand": "Higitech"
+	},
+	{
+		"id": 9,
+		"name": "Object J",
+		"price": "320.00",
+		"brand": "Higitech"
+	}
+]
